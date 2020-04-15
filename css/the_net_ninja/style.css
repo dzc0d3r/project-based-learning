@@ -50,5 +50,12 @@ body{
     background: #8f746c;
     border-radius: 4px;
 }
+/*#######################
 
-// Part two 
+Part two 
+
+#######################*/
+
+#lead-banner img {
+    width: 100%;
+}
