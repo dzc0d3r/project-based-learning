@@ -39,15 +39,16 @@ body{
     text-transform: uppercase;
     font-size: 14px;
     padding: 6px;
-    transition: all 1s ease;
+    transition: all .8s ease;
 }
 #main-navigation a:hover {
   background: #8f746c;
   border-radius: 4px;
-
 }
 
 #main-navigation a.current{
     background: #8f746c;
     border-radius: 4px;
 }
+
+// Part two 
