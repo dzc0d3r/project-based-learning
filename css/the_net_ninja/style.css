@@ -27,3 +27,9 @@ body{
     list-style-type: none;
     margin-right: 10px;
 }
+
+#main-navigation li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
