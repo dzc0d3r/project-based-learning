@@ -75,4 +75,16 @@ Part two
     font-size: 58px;
 }
 
+#shop a.add-to-bag {
+    display: block;
+    color: #8f746c;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 10px 0;
+    border: 2px solid #8f746c;
+    width: 210px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
 
