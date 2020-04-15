@@ -86,7 +86,7 @@ Part two
     width: 210px;
     margin: 20px auto;
     border-radius: 5px;
-    transition: all .9s ease;
+    transition: all .8s ease;
 }
 
 #shop a.add-to-bag:hover {
@@ -94,5 +94,6 @@ Part two
    background: #8f746c;
 }
 
-
-
+#footer-banner img {
+    width: 100%;
+}
