@@ -16,3 +16,8 @@ body{
     margin: 0 auto;
     background: #fff;
 }
+
+#main-naviguation {
+    background: #181818;
+    padding: 10px;
+}
