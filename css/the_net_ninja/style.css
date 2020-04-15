@@ -17,7 +17,13 @@ body{
     background: #fff;
 }
 
-#main-naviguation {
+#main-navigation {
     background: #181818;
     padding: 10px;
+}
+
+#main-navigation ul {
+    text-align: right;
+    list-style-type: none;
+    margin-right: 10px;
 }
