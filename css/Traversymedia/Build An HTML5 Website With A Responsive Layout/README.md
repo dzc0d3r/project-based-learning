@@ -6,14 +6,14 @@
 ### ScreenShots
 1 
 
-![ScreenShot 1](/images/screen03.png "ScreenShot")
+![ScreenShot 1](images/screen03.png "ScreenShot")
 
 ---
 2
 
-![ScreenShot 1](/images/screen02.png "ScreenShot")
+![ScreenShot 1](images/screen02.png "ScreenShot")
 
 ---
 3
 
-![ScreenShot 1](/images/screen01.png "ScreenShot")
+![ScreenShot 1](images/screen01.png "ScreenShot")
