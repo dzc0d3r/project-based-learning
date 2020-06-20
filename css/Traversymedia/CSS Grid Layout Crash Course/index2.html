@@ -8,7 +8,12 @@
     <style>
         .wrapper {
             display: grid;
-            grid-template-columns: 1fr 2fr 1fr;
+            /*            grid-template-columns: 1fr 2fr 1fr;
+            */
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 1em;
+            /*grid-auto-rows: 100px;*/
+            grid-auto-rows: minmax(100px, auto);
         }
 
         .wrapper>div {
@@ -29,7 +34,9 @@
             Lorem ipsum dolor sit.
         </div>
         <div>
-            Lorem ipsum dolor sit.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi iste reiciendis mollitia quod laboriosam!
+            Inventore cupiditate minima reiciendis, earum iste ad in impedit unde temporibus aspernatur nostrum qui
+            fugit officia aliquid delectus quae quia, suscipit praesentium. Iure rerum quo et!
         </div>
         <div>
             Lorem ipsum dolor sit.
